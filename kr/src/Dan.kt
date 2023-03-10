@@ -1,0 +1,3 @@
+interface Dan {
+    fun dan()
+}
